@@ -1,7 +1,7 @@
 Litecoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+[![Build Status](https://travis-ci.com/koleoshkin/koleoshkin-core.svg?branch=master)](https://travis-ci.com/koleoshkin/koleoshkin-core)
 
 https://litecoin.org
 
